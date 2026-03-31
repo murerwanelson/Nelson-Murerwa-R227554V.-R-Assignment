@@ -31,5 +31,5 @@ The assignment covers:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<murerwanelson/Nelson-Murerwa-R227554V.-R-Assignment.git
+git clone https://github.com/murerwanelson/Nelson-Murerwa-R227554V.-R-Assignment.git
 
